@@ -1,0 +1,10 @@
+body {
+    min-width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('img/background.jpg'); /*Photo by Levi Midnight on Unsplash*/
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
